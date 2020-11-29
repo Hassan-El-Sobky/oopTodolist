@@ -1,0 +1,30 @@
+.hidden {
+  display: none;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+.alert {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.main-header {
+  margin-top: 4rem;
+}
+
+.section {
+  min-height: 5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-top: 2em;
+  border-radius: 0.5em;
+  padding: 2em;
+}
+
+hr {
+  width: 80%;
+  margin-bottom: 2em;
+}
